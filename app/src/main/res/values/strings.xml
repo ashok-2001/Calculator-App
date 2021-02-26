@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="a1">Answer</string>
+    <string name="a2">1</string>
+    <string name="a3">2</string>
+    <string name="a4">3</string>
+    <string name="a5">+</string>
+    <string name="a6">4</string>
+    <string name="a8">7</string>
+    <string name="a9">5</string>
+    <string name="a0">0</string>
+    <string name="a11">6</string>
+    <string name="a12">-</string>
+    <string name="a13">8</string>
+    <string name="a14">9</string>
+    <string name="a15">x</string>
+    <string name="a16">/</string>
+    <string name="a17">.</string>
+    <string name="a18">=</string>
+    <string name="a19">Clear</string>
+    <string name="a20">Make Calculation Easy</string>
+    <string name="a21">Creators</string>
+    <string name="ashok_kumar">Ashok Kumar</string>
+    <string name="_191it210">191IT210</string>
+    <string name="anand_kumar">Anand Kumar</string>
+    <string name="_191it104">191IT104</string>
+    <string name="vishal_verma">Vishal Verma</string>
+    <string name="_191it258">191IT258</string>
+    <string name="manish_rathore">Manish Rathore</string>
+    <string name="_191it229">191IT229</string>
+    <string name="x1">()</string>
+    <string name="x2">=</string>
+
+</resources>
